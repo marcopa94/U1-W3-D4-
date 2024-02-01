@@ -1,0 +1,34 @@
+div .creatomb {
+  width: 798px;
+  width: 100%;
+  background-color: #0c0b1d;
+  color: #8c3e3e;
+  border-radius: 8px;
+  border: 8px solid #0c0b1d;
+  display: inline-block;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+h3 {
+  color: black;
+}
+
+.cella {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  display: inline-block;
+  background-color: antiquewhite;
+  text-align: center;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
